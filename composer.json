@@ -1,0 +1,13 @@
+{
+    "name": "maynagashev/laravel-container-with-request",
+    "authors": [
+        {
+            "name": "maynagashev",
+            "email": "lifesup@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "3.3.*",
+        "illuminate/container": "5.4.*"
+    }
+}
